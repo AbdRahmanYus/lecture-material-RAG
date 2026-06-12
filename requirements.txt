@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+chromadb
+sympy
+streamlit
+requests
+python-dotenv
+jupyter
+ipykernel
+pandas
+matplotlib

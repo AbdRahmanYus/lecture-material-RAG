@@ -1,0 +1,3 @@
+The Routh-Hurwitz criterion determines stability.
+A system is stable if all poles are in the left half plane.
+PID stands for Proportional, Integral, Derivative.
